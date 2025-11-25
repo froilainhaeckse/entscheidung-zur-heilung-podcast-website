@@ -1,0 +1,86 @@
+baseURL = 'https://example.org/'
+languageCode = 'de-de'
+title = 'Entscheidung zur Heilung'
+theme = 'castanet'
+buildFuture = true
+
+# Pagination settings
+[pagination]
+pagerSize = 9
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[permalinks]
+about = "/:filename/"
+episode = "/:filename/"
+
+# Navigation Menu
+[[menu.main]]
+name = "Über uns"
+identifier = "about"
+url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "Kontakt"
+identifier = "contact"
+url = "/contact"
+weight = 2
+
+[[menu.main]]
+name = "Hosts"
+identifier = "hosts"
+url = "/host"
+weight = 3
+
+[[menu.main]]
+name = "Gäste"
+identifier = "guests"
+url = "/guest"
+weight = 4
+
+# Site Parameters
+[params]
+mainSections = ["episode"]
+site_theme = "blue"
+site_layout = "row"
+enable_jumbo = "true"
+disable_title_caps = "true"
+copyright_notice = "Copyright 2024 Entscheidung zur Heilung Podcast"
+description = "Der Podcast für Gesundheit, Heilung und persönliches Wachstum. Entdecke inspirierende Gespräche und wertvolle Einsichten auf deinem Weg zur Heilung."
+
+# Podcast Feed Settings
+[params.feed]
+copyright = "Copyright 2024 Entscheidung zur Heilung Podcast"
+itunes_subtitle = "Dein Podcast für Gesundheit und Heilung"
+itunes_author = "Entscheidung zur Heilung"
+itunes_summary = "Der Podcast für Gesundheit, Heilung und persönliches Wachstum. Entdecke inspirierende Gespräche und wertvolle Einsichten auf deinem Weg zur Heilung."
+itunes_owner_name = "Entscheidung zur Heilung"
+itunes_owner_email = "podcast@example.com"
+itunes_top_category = "Health & Fitness"
+itunes_first_sub_category = "Mental Health"
+language = "de-de"
+
+# Podlove Subscribe Button
+[params.podlove]
+subscribe_title = ""
+subscribe_subtitle = ""
+subscribe_description = ""
+subscribe_cover = "img/logo.jpg"
+subscribe_color = "#585e6c"
+subscribe_size = "medium"
+subscribe_format = "rectangle"
+subscribe_style = "filled"
+subscribe_language = "de"
+subscribe_feed_type = "audio"
+subscribe_feed_format = "mp3"
+
+# Social Media Links
+[params.social]
+# Add your social media links here
+# twitter = "yourhandle"
+# facebook = "yourpage"
+# instagram = "yourhandle"
