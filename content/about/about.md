@@ -4,17 +4,20 @@ description = "Über diesen Podcast"
 title = "Über uns"
 +++
 
-## Willkommen bei Entscheidung zur Heilung
+## Von der Entscheidung zur Heilung
 
-Dieser Podcast widmet sich dem Thema Gesundheit, Heilung und persönlichem Wachstum. 
+Manchmal tragen wir Geschichten in uns, die wir lange Zeit niemandem erzählen konnten. Geschichten, die wehtun. Geschichten, die uns verändert haben. Dieser Podcast ist ein Raum für genau diese Geschichten.
 
-In jeder Episode führen wir inspirierende Gespräche mit Experten und Menschen, die ihren eigenen Heilungsweg gefunden haben. Gemeinsam erkunden wir verschiedene Ansätze und Perspektiven, die dir auf deinem Weg zur Heilung helfen können.
+„Von der Entscheidung zur Heilung – Stimmen nach einer Abtreibung" gibt Frauen und Männern eine Stimme, die eine Abtreibung erlebt haben und ihren Weg teilen möchten. Hier geht es nicht um Meinungen oder Debatten. Hier geht es um Menschen. Um ihre Gefühle, ihre Trauer, ihre Hoffnung und ihren ganz persönlichen Heilungsweg.
 
-### Was dich erwartet
+### Ein sicherer Ort
 
-- Tiefgründige Gespräche über Gesundheit und Wohlbefinden
-- Praktische Tipps für deinen Alltag
-- Inspirierende Geschichten von Menschen auf ihrem Heilungsweg
-- Expertenwissen aus verschiedenen Bereichen
+Jede Geschichte ist einzigartig. Manche Stimmen möchten gehört werden, andere bleiben lieber anonym – beides ist hier willkommen und möglich. Was zählt, ist die Ehrlichkeit und der Mut, sich zu öffnen.
 
-Abonniere unseren Podcast und begleite uns auf dieser spannenden Reise!
+Wir glauben daran, dass Heilung beginnt, wenn wir uns gesehen und gehört fühlen. Wenn wir wissen, dass wir nicht allein sind mit dem, was wir durchgemacht haben.
+
+### Für wen ist dieser Podcast?
+
+Für alle, die selbst betroffen sind und sich verstanden fühlen möchten. Für alle, die jemanden kennen und besser verstehen wollen. Und für alle, die einfach zuhören und mitfühlen möchten.
+
+Du bist hier richtig. So wie du bist.
