@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Über mich on Von der Entscheidung zur Heilung</title>
+    <link>https://www.entscheidung-zur-heilung.de/ueber-mich/</link>
+    <description>Recent content in Über mich on Von der Entscheidung zur Heilung</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://www.entscheidung-zur-heilung.de/ueber-mich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcast Host</title>
+      <link>https://www.entscheidung-zur-heilung.de/ueber-mich/host/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://www.entscheidung-zur-heilung.de/ueber-mich/host/</guid>
+      <description>&lt;p&gt;Hier steht die Biografie des Podcast-Hosts. Beschreibe dich und deine Motivation für diesen Podcast.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
