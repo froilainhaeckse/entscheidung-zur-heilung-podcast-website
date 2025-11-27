@@ -1,7 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://entscheidung-zur-heilung.de/'
 languageCode = 'de-de'
-title = 'Entscheidung zur Heilung'
+title = 'Von der Entscheidung zur Heilung'
+subtitle = 'Podcast über Abtreibungserfahrungen'
+author = 'Thea Amanda Kupler'
 theme = 'castanet'
+defaultContentLanguage = "de"
 buildFuture = true
 
 # Pagination settings
@@ -14,73 +17,84 @@ series = "series"
 tag = "tags"
 
 [permalinks]
-about = "/:filename/"
-episode = "/:filename/"
+about = "/:contentbasename/"
+episode = "/:contentbasename/"
 
 # Navigation Menu
 [[menu.main]]
-name = "Über uns"
-identifier = "about"
-url = "/about"
+name = "Startseite"
+url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Kontakt"
-identifier = "contact"
-url = "/contact"
+name = "Über mich"
+url = "/ueber-mich/"
 weight = 2
 
 [[menu.main]]
-name = "Hosts"
-identifier = "hosts"
-url = "/host"
+name = "Mitmachen"
+url = "/mitmachen/"
 weight = 3
 
 [[menu.main]]
-name = "Gäste"
-identifier = "guests"
-url = "/guest"
+name = "Ressourcen"
+url = "/ressourcen/"
 weight = 4
+
+[[menu.main]]
+name = "Kontakt"
+url = "/kontakt/"
+weight = 5
+
+[[menu.main]]
+name = "Podcast"
+url = "/podcast/"
+weight = 6
+
+[[menu.main]]
+name = "Impressum"
+url = "/impressum/"
+weight = 99
 
 # Site Parameters
 [params]
+custom_css = ["css/custom.css"]
 mainSections = ["episode"]
 site_theme = "blue"
 site_layout = "row"
 enable_jumbo = "true"
 disable_title_caps = "true"
-copyright_notice = "Copyright 2024 Entscheidung zur Heilung Podcast"
-description = "Der Podcast für Gesundheit, Heilung und persönliches Wachstum. Entdecke inspirierende Gespräche und wertvolle Einsichten auf deinem Weg zur Heilung."
+copyright_notice = "Copyright 2025 Von der Entscheidung zur Heilung - Podcast über Abtreibungserfahrungen"
+description = "Ein Podcast über Abtreibungserfahrungen, der Raum für persönliche Geschichten bietet. Hier erzählen Menschen von ihrer Entscheidung, ihr Kind abgetrieben zu haben, ihren Gefühlen und ihrem Weg zur Heilung."
+subtitle = "Von der Entscheidung zur Heilung"
 
 # Podcast Feed Settings
 [params.feed]
-copyright = "Copyright 2024 Entscheidung zur Heilung Podcast"
-itunes_subtitle = "Dein Podcast für Gesundheit und Heilung"
-itunes_author = "Entscheidung zur Heilung"
-itunes_summary = "Der Podcast für Gesundheit, Heilung und persönliches Wachstum. Entdecke inspirierende Gespräche und wertvolle Einsichten auf deinem Weg zur Heilung."
+copyright = "Copyright 2025 Von der Entscheidung zur Heilung - Podcast über Abtreibungserfahrungen"
+itunes_subtitle = "Persönliche Geschichten über Abtreibungserfahrungen"
+itunes_author = "Thea Amanda Kupler"
+itunes_summary = "Ein Podcast über Abtreibungserfahrungen, der Raum für persönliche Geschichten bietet. Hier erzählen Menschen von ihrer Entscheidung, ihr Kind abgetrieben zu haben, ihren Gefühlen und ihrem Weg zur Heilung."
 itunes_owner_name = "Entscheidung zur Heilung"
-itunes_owner_email = "podcast@example.com"
-itunes_top_category = "Health & Fitness"
-itunes_first_sub_category = "Mental Health"
+itunes_owner_email = "entscheidung.zur.heilung@gmail.com"
+itunes_top_category = "Society & Culture"
+itunes_first_sub_category = "Personal Journals"
 language = "de-de"
 
 # Podlove Subscribe Button
-[params.podlove]
-subscribe_title = ""
-subscribe_subtitle = ""
-subscribe_description = ""
-subscribe_cover = "img/logo.jpg"
-subscribe_color = "#585e6c"
-subscribe_size = "medium"
-subscribe_format = "rectangle"
-subscribe_style = "filled"
-subscribe_language = "de"
-subscribe_feed_type = "audio"
-subscribe_feed_format = "mp3"
+# [params.podlove]
+# subscribe_title = ""
+# subscribe_subtitle = ""
+# subscribe_description = ""
+# subscribe_cover = "img/logo.jpg"
+# subscribe_color = "#585e6c"
+# subscribe_size = "medium"
+# subscribe_format = "rectangle"
+# subscribe_style = "filled"
+# subscribe_language = "de"
+# subscribe_feed_type = "audio"
+# subscribe_feed_format = "mp3"
 
 # Social Media Links
 [params.social]
 # Add your social media links here
-# twitter = "yourhandle"
-# facebook = "yourpage"
-# instagram = "yourhandle"
+# instagram = "entscheidung.zur.heilung"
