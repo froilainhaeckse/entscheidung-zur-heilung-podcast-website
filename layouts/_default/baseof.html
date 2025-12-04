@@ -6,7 +6,7 @@
 
     <body lang="{{ .Site.Params.Lang }}">
         {{ partial "header.html" . }}
-        <div class="container middle_container">
+        <div class="container middle_container rounded-lg">
             {{ block "main" . }}
             <!-- The part of the page that begins to differ between templates -->
             {{ end }}

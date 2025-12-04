@@ -1,16 +1,38 @@
 ---
-title: "Über mich"
+title: "Über mich und das Projekt"
 draft: false
 type: page
 layout: single
 ---
 
-Hallo, ich bin **Thea Amanda Kupler**.  
+<img alt="Thea Amanda Kupler" 
+     src="/img/thea_pic_sonne.jpg" 
+     class="img-center rounded-circle img-fluid jumbotron-host w-50 float-right">
 
-Meine eigene Erfahrung mit Abtreibung im Jahre 2022 hat mich tief geprägt. Seitdem beschäftigt mich das Thema und meine Entscheidung hat viel Heilung erforderlich gemacht. Dabei ist mir aufgefallen, wie unterschiedlich solche Erfahrungen sein können – selbst innerhalb meiner eigenen Familie.. Meine Schwester hatte eine ganz andere Erfahrung, meine war sehr emotional, hat mich teilweise sehr hoffnungslos sowie lebensmüde gemacht und hat mein Leben nachhaltig beeinflusst.  
+**Hallo, ich bin Thea Amanda Kupler.**
 
-Diese Erkenntnis und auch das Erschrecken darüber, wie viele Frauen ähnliche Erfahrungen gemacht haben, haben mich motiviert, diesen Podcast ins Leben zu rufen. **Meine Intention ist es, einen Raum zu schaffen**, in dem Frauen und Männer ihre Geschichten hören und teilen können, sich wiedererkennen und Unterstützung finden. Ich möchte Ressourcen bündeln, damit Menschen, die abgetrieben haben oder darüber nachdenken, wissen, dass sie nicht allein sind und an wen sie sich wenden können.  
+Meine **Abtreibung im Jahr 2022**, im Alter von 31 Jahren, hat mein Leben tief geprägt. Diese Erfahrung war für mich **emotional überwältigend** und hat meine psychische Gesundheit stärker beeinflusst, als ich es je erwartet hätte. Ich habe mich zeitweise sehr hoffnungslos und emotional überfordert gefühlt. Von außen kam oft nur der Vorschlag, Medikamente zu nehmen – was sich für mich damals nicht stimmig anfühlte.
 
-Mir geht es **nicht um politische Debatten**, nicht um Pro-Choice oder Pro-Life. Mein Ziel ist es, Erfahrungen ehrlich zu teilen, Gefühle sichtbar zu machen und Heilung zu ermöglichen – sowohl für die Sprechenden als auch für die Zuhörenden. Gleichzeitig stehe ich persönlich aufgrund meiner eigenen Erfahrung dem Thema inzwischen kritisch gegenüber und es ist mir ist mir wichtig, dass man sich bewusst ist, welchen tiefen Einschnitt eine solche Entscheidung im Leben haben kann. 
+Erst durch meine eigene Erfahrung wurde mir bewusst, wie **unterschiedlich solche Entscheidungen erlebt werden**. Auch Menschen, die mir nah stehen, waren davon anders betroffen. Meine Schwester hat viele Jahre zuvor ebenfalls abgetrieben – für sie war es die richtige Entscheidung. Bei mir hat sie jedoch vieles aufgewühlt und verändert. Ich glaube, ich konnte mir damals nicht vorstellen, wie individuell und tiefgreifend die Folgen sein können, wenn man ein Kind abtreibt und dieses Leben beendet.
 
-Ich bin **weder therapeutisch noch journalistisch ausgebildet**. Dieses Projekt ist eine Herzenssache von mir. Gleichzeitig habe ich viel Erfahrung im Bereich **Persönlichkeitsentwicklung und bewusster Gefühlsarbeit**, die in die Gespräche einfließt.
+Und ich kannte nur sehr wenige andere Geschichten – nur meine Schwester und eine entfernte Bekannte, die Freundin einer Freundin, welche mir vermittelt wurde. Das war einer der Auslöser für diesen Podcast: **die Vielfalt der Erfahrungen sichtbarer zu machen**, damit Menschen, die vor dieser Entscheidung stehen, ein vollständigeres Bild bekommen können.
+
+<img alt="Thea Amanda Kupler" 
+     src="/img/WoE Lab Foto Juni 2025 (1)_touched_small.JPG" 
+     class="img-fluid rounded-circle float-left mr-3 mb-3 w-25">
+
+Meine eigene Abtreibung und die emotionalen “Nachwehen” haben viel **Heilung** erfordert. Auch das ist ein Kern dieses Projekts:  
+Menschen, die ein Kind abgetrieben haben, einen Raum zu geben, in dem sie ihre Geschichte teilen können – und durch das Hören anderer vielleicht ein Stück Heilung finden. Neben dem Weg "Von der Entscheidung zur Heilung", geht es für mich auch um die bewusste **Entscheidung zur Heilung**.  
+
+Nicht mehr im selben Schmerz zu verharren, sondern den Weg weiterzugehen. Und manchmal entsteht erst im Rückblick ein Gefühl von Sinn: dass die Abtreibung vielleicht nicht “die richtige Entscheidung” war – aber zu einem Weg geführt hat, der einen heute an einen Punkt bringt, der richtig ist.  
+Ohne die Erfahrung mit meinem eigenen Kind gäbe es dieses Projekt nicht.
+
+Diese Einsichten und das Wissen darum, wie viele Frauen und Männer **ähnliche Herausforderungen** durchleben, haben mich dazu bewegt, diesen Podcast zu starten. Ich möchte einen **Raum schaffen**, in dem sich Menschen gehört fühlen, verstanden werden und Unterstützung finden können. Und ich möchte **Ressourcen zugänglich machen**, damit niemand mit so einer Erfahrung oder Entscheidung allein bleibt.
+
+Mir geht es **nicht um politische Debatten**, nicht um Pro-Life oder Pro-Choice. Mein Fokus liegt auf echten Erfahrungen, auf Gefühlen, und auf der Frage, was solche Entscheidungen für das eigene Leben bedeuten können. Durch meine eigene Geschichte stehe ich dem Thema heute **kritisch** gegenüber – nicht aus moralischer Überzeugung, sondern weil ich selbst erfahren habe, wie tief ein solcher Eingriff wirken kann.
+
+Ich bin weder Therapeutin noch Journalistin. Dieses Projekt ist eine **Herzensangelegenheit**. Gleichzeitig bringe ich Erfahrung in **Persönlichkeitsentwicklung** und **bewusster Gefühlsarbeit** mit – und vor allem den Wunsch, einen Raum zu eröffnen, in dem Heilung möglich wird.
+
+<img alt="Thea Amanda Kupler" 
+     src="/img/thea_oesterreich.JPG" 
+     class="img-fluid mr-3 mb-3">

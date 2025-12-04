@@ -9,8 +9,8 @@ layout: single
 #### Verantwortlich für den Inhalt nach § 5 TMG:
 
 Thea Amanda Kupler  
-Fritz-Riedel-Strasse 4
-10407 Berlin
+Fritz-Riedel-Strasse 4  
+10407 Berlin  
 Deutschland  
 
 #### Kontakt:  

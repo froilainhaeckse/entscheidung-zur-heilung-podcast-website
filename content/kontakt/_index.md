@@ -1,21 +1,17 @@
-+++
-date = "2024-01-01T00:00:00+01:00"
-description = "Kontaktiere uns"
-title = "Kontakt"
-+++
+---
+date: "2025-12-03"
+title: "Kontakt"
+draft: false
+type: page
+layout: single
+---
 
-## Kontakt
+Wenn du Fragen hast, deine eigene Geschichte teilen möchtest oder aus einem anderen Grund mit mir in Verbindung treten willst, kannst du mir jederzeit schreiben.
+Ich freue mich über jede Nachricht und antworte dir so bald wie möglich.
 
-Du hast Fragen, Anregungen oder möchtest Feedback geben? Wir freuen uns von dir zu hören!
+📩 E-Mail:
+entscheidung.zur.heilung@gmail.com
 
-### So erreichst du uns
+Bitte hab Verständnis dafür, dass ich manchmal etwas Zeit brauche, um zu antworten.
 
-- **E-Mail:** podcast@example.com
-
-### Folge uns
-
-Bleibe auf dem Laufenden und folge uns auf unseren Social-Media-Kanälen.
-
-### Gast werden
-
-Du hast eine inspirierende Geschichte zu erzählen oder bist Experte in einem relevanten Bereich? Wir sind immer auf der Suche nach interessanten Gästen. Schreibe uns einfach eine E-Mail mit einer kurzen Vorstellung.
+Ich freue mich darauf, von dir zu lesen. 💛

@@ -1,23 +1,29 @@
-+++
-date = "2024-01-01T00:00:00+01:00"
-description = "Über diesen Podcast"
-title = "Über uns"
-+++
+---
+title: "Ressourcen"
+date: 2025-12-03
+draft: false
+type: page
+layout: single
+---
+Hier findest du hilfreiche Anlaufstellen und Begleitangebote – sowohl während einer ungeplanten Schwangerschaft als auch nach einer Abtreibung.
+Alle Links führen zu Organisationen oder Projekten, die Unterstützung, Informationen oder Begleitung anbieten.
 
-## Von der Entscheidung zur Heilung
+### Während einer Schwangerschaft
 
-Manchmal tragen wir Geschichten in uns, die wir lange Zeit niemandem erzählen konnten. Geschichten, die wehtun. Geschichten, die uns verändert haben. Dieser Podcast ist ein Raum für genau diese Geschichten.
+#### [Aktion Leben](https://www.aktion-leben.de/)
 
-„Von der Entscheidung zur Heilung – Stimmen nach einer Abtreibung" gibt Frauen und Männern eine Stimme, die eine Abtreibung erlebt haben und ihren Weg teilen möchten. Hier geht es nicht um Meinungen oder Debatten. Hier geht es um Menschen. Um ihre Gefühle, ihre Trauer, ihre Hoffnung und ihren ganz persönlichen Heilungsweg.
+Aktion Leben bietet umfassende Informationen, Beratung und Unterstützung rund um Schwangerschaft, Elternwerden und schwierige Entscheidungssituationen. Die Organisation begleitet einfühlsam und niedrigschwellig – sowohl online als auch vor Ort.
 
-### Ein sicherer Ort
+### Nach einer Abtreibung
 
-Jede Geschichte ist einzigartig. Manche Stimmen möchten gehört werden, andere bleiben lieber anonym – beides ist hier willkommen und möglich. Was zählt, ist die Ehrlichkeit und der Mut, sich zu öffnen.
+#### [SaveOne Europe](https://www.saveoneeurope.org/)
 
-Wir glauben daran, dass Heilung beginnt, wenn wir uns gesehen und gehört fühlen. Wenn wir wissen, dass wir nicht allein sind mit dem, was wir durchgemacht haben.
+Ein internationales Netzwerk, das Menschen nach einer Abtreibung begleitet. SaveOne bietet Einzelbegleitung, Gruppenprogramme und lokale Ansprechpartner, um Heilung und Verarbeitung zu unterstützen.
 
-### Für wen ist dieser Podcast?
+#### [Rachels Weinberg](https://rachelsweinberg.de/)
 
-Für alle, die selbst betroffen sind und sich verstanden fühlen möchten. Für alle, die jemanden kennen und besser verstehen wollen. Und für alle, die einfach zuhören und mitfühlen möchten.
+Ein sensibles Begleitangebot für Frauen, Männer und Paare, die nach einer Abtreibung innere Ruhe, Versöhnung und Heilungswege suchen. Die Begleitung ist erfahrungsorientiert, achtsam und anonym möglich.
 
-Du bist hier richtig. So wie du bist.
+#### [Healing Void](https://healingvoid.mystrikingly.com/)
+
+Ein persönliches Erfahrungs- und Unterstützungsprojekt, das Raum für Trauer, Austausch und innere Arbeit nach einer Abtreibung bietet. Besonders wertvoll für Menschen, die Raum für ihre Gefühle und Emotionen rundum ihre Entscheidung und Erfahrung haben möchten.

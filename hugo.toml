@@ -56,17 +56,26 @@ name = "Impressum"
 url = "/impressum/"
 weight = 99
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Site Parameters
 [params]
 custom_css = ["css/custom.css"]
 mainSections = ["episode"]
 site_theme = "blue"
 site_layout = "row"
+show_next_upcoming = "true"
 enable_jumbo = "true"
 disable_title_caps = "true"
 copyright_notice = "Copyright 2025 Von der Entscheidung zur Heilung - Podcast über Abtreibungserfahrungen"
-description = "Ein Podcast über Abtreibungserfahrungen, der Raum für persönliche Geschichten bietet. Hier erzählen Menschen von ihrer Entscheidung, ihr Kind abgetrieben zu haben, ihren Gefühlen und ihrem Weg zur Heilung."
-subtitle = "Von der Entscheidung zur Heilung"
+description = ""
+# youtube_subscribe = "https://www.youtube.com/arresteddevops?sub_confirmation=1"
+itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
+spotify_subscribe = "https://open.spotify.com/show/..."
+# pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 
 # Podcast Feed Settings
 [params.feed]
@@ -79,6 +88,12 @@ itunes_owner_email = "entscheidung.zur.heilung@gmail.com"
 itunes_top_category = "Society & Culture"
 itunes_first_sub_category = "Personal Journals"
 language = "de-de"
+
+# [params.authors]
+#     [params.authors.Thea]
+#     name = "Thea Amanda Kupler"
+#     thumbnail = "img/thea_pic.jpeg"
+#     bio = ""
 
 # Podlove Subscribe Button
 # [params.podlove]
@@ -97,4 +112,4 @@ language = "de-de"
 # Social Media Links
 [params.social]
 # Add your social media links here
-# instagram = "entscheidung.zur.heilung"
+instagram = "entscheidung.zur.heilung"
