@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.entscheidung-zur-heilung.de/impressum/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+    <loc>https://www.entscheidung-zur-heilung.de/kontakt/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.entscheidung-zur-heilung.de/mitmachen/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.entscheidung-zur-heilung.de/ressourcen/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.entscheidung-zur-heilung.de/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.entscheidung-zur-heilung.de/impressum/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.entscheidung-zur-heilung.de/categories/</loc>
@@ -38,18 +47,10 @@
     <loc>https://www.entscheidung-zur-heilung.de/podcast/episode-001/</loc>
     <lastmod>2024-01-15T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.entscheidung-zur-heilung.de/kontakt/</loc>
-    <lastmod>2024-01-01T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://www.entscheidung-zur-heilung.de/ueber-mich/host/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://www.entscheidung-zur-heilung.de/ueber-mich/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.entscheidung-zur-heilung.de/ressourcen/</loc>
-    <lastmod>2024-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.entscheidung-zur-heilung.de/mitmachen/</loc>
   </url>
 </urlset>

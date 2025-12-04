@@ -28,29 +28,11 @@ body {
 
 body {
     font-family: "Lato", "DM Sans", "Inter", sans-serif;
-    background: url("/img/hintergrund.png") repeat center center;
+    /*background: linear-gradient(135deg, #f2dce6 0%, #ffffff 100%);*/
+    /*background-color: var(--color-background);*/
+    background: url("/img/aquarellhintergrund.avif") no-repeat center center;
     background-size: cover;
     color: var(--color-text);
-}
-
-/* -----------------------
-   Banner
------------------------ */
-
-.jumbotron {
-    position: relative;
-    padding: 4rem 2rem;
-    margin-bottom: 2rem;
-    background-image: url("/img/banner_neu.png?v=1");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    border-radius: 0.3rem;
-    min-height: 400px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
 }
 
 /* -----------------------
@@ -60,7 +42,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: "Dancing Script";
+    font-family: "YourScriptFont", cursive; /* z.B. Script-Schrift */
     color: var(--color-primary);
     line-height: 1.2;
     margin-bottom: 1rem;
@@ -192,15 +174,6 @@ textarea:focus,
 select:focus {
     outline: none;
     border-color: var(--color-primary);
-}
-
-/* dancing-script-regular - latin */
-@font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: "Dancing Script";
-    font-style: normal;
-    font-weight: 400;
-    src: url("../fonts/dancing-script-v29-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* -----------------------
