@@ -34,5 +34,5 @@ Mir geht es **nicht um politische Debatten**, nicht um Pro-Life oder Pro-Choice.
 Ich bin weder Therapeutin noch Journalistin. Dieses Projekt ist eine **Herzensangelegenheit**. Gleichzeitig bringe ich Erfahrung in **Persönlichkeitsentwicklung** und **bewusster Gefühlsarbeit** mit – und vor allem den Wunsch, einen Raum zu eröffnen, in dem Heilung möglich wird.
 
 <img alt="Thea Amanda Kupler" 
-     src="/img/thea_oesterreich.JPG" 
+     src="/img/thea_oesterreich.jpg" 
      class="img-fluid mr-3 mb-3">
