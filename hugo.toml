@@ -46,10 +46,10 @@ name = "Kontakt"
 url = "/kontakt/"
 weight = 5
 
-[[menu.main]]
-name = "Podcast"
-url = "/podcast/"
-weight = 6
+# [[menu.main]]
+# name = "Podcast"
+# url = "/podcast/"
+# weight = 6
 
 [[menu.main]]
 name = "Impressum"
