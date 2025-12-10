@@ -73,8 +73,9 @@ disable_title_caps = "true"
 copyright_notice = "Copyright 2025 Von der Entscheidung zur Heilung - Podcast über Abtreibungserfahrungen"
 description = ""
 # youtube_subscribe = "https://www.youtube.com/arresteddevops?sub_confirmation=1"
-itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
-spotify_subscribe = "https://open.spotify.com/show/..."
+itunes_subscribe = "https://podcasts.apple.com/us/podcast/von-der-entscheidung-zur-heilung-stimmen-nach-einer-abtreibung/id1860383572"
+spotify_subscribe = "https://open.spotify.com/show/1vcZ1y2om1YxT49Naw51s0?si=UU6ZyXDMRcu7FshJeb_LjA"
+rss_subscribe = "https://anchor.fm/s/10c6c7160/podcast/rss"
 # pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 
 # Podcast Feed Settings
