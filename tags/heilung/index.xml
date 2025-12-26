@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heilung on Von der Entscheidung zur Heilung</title>
-    <link>https://www.entscheidung-zur-heilung.de/tags/heilung/</link>
+    <link>http://localhost:1313/tags/heilung/</link>
     <description>Recent content in Heilung on Von der Entscheidung zur Heilung</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0100</lastBuildDate>
-    <atom:link href="https://www.entscheidung-zur-heilung.de/tags/heilung/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/heilung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Folge 1 - Meine eigene Geschichte</title>
+      <link>http://localhost:1313/episode-001/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/episode-001/</guid>
+      <description>&lt;p&gt;Herzlich willkommen zur ersten Episode von &amp;ldquo;Entscheidung zur Heilung&amp;rdquo;!&lt;/p&gt;&#xA;&lt;p&gt;In dieser Folge stellen wir uns vor und teilen unsere Vision für diesen Podcast. Du erfährst:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Warum wir diesen Podcast ins Leben gerufen haben&lt;/li&gt;&#xA;&lt;li&gt;Welche Themen dich in den kommenden Episoden erwarten&lt;/li&gt;&#xA;&lt;li&gt;Wie du das Beste aus diesem Podcast herausholen kannst&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wir freuen uns, dich auf dieser Reise zu begleiten!&lt;/p&gt;&#xA;&lt;iframe style=&#34;border-radius:12px&#34;&#xA;        src=&#34;https://open.spotify.com/embed/episode/7CRYUN9JnjmgP8rim1cRfc?si=kx5kh4bfR0aX7TOnaz8GQQ&#34;&#xA;        width=&#34;100%&#34;&#xA;        height=&#34;152&#34;&#xA;        frameborder=&#34;0&#34;&#xA;        allowfullscreen=&#34;&#34;&#xA;        allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34;&gt;&#xA;&lt;/iframe&gt;</description>
+    </item>
     <item>
       <title>Willkommen - Unsere Vision für deine Heilung</title>
-      <link>https://www.entscheidung-zur-heilung.de/podcast/episode-001/</link>
+      <link>http://localhost:1313/episode-000/</link>
       <pubDate>Mon, 15 Jan 2024 10:00:00 +0100</pubDate>
-      <guid>https://www.entscheidung-zur-heilung.de/podcast/episode-001/</guid>
+      <guid>http://localhost:1313/episode-000/</guid>
       <description>&lt;p&gt;Herzlich willkommen zur ersten Episode von &amp;ldquo;Entscheidung zur Heilung&amp;rdquo;!&lt;/p&gt;&#xA;&lt;p&gt;In dieser Folge stellen wir uns vor und teilen unsere Vision für diesen Podcast. Du erfährst:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Warum wir diesen Podcast ins Leben gerufen haben&lt;/li&gt;&#xA;&lt;li&gt;Welche Themen dich in den kommenden Episoden erwarten&lt;/li&gt;&#xA;&lt;li&gt;Wie du das Beste aus diesem Podcast herausholen kannst&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wir freuen uns, dich auf dieser Reise zu begleiten!&lt;/p&gt;&#xA;&lt;h2 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Besuche unsere Website für mehr Informationen&lt;/li&gt;&#xA;&lt;li&gt;Folge uns auf Social Media&lt;/li&gt;&#xA;&lt;li&gt;Schreibe uns dein Feedback&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;transkript&#34;&gt;Transkript&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Folgt in Kürze&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

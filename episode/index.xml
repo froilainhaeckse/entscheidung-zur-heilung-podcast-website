@@ -1,0 +1,42 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>Von der Entscheidung zur Heilung</title>
+    <atom:link href="https://www.entscheidung-zur-heilung.de/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.entscheidung-zur-heilung.de/</link>
+    <description>Ein Podcast über Abtreibungserfahrungen, der Raum für persönliche Geschichten bietet. Hier erzählen Menschen von ihrer Entscheidung, ihr Kind abgetrieben zu haben, ihren Gefühlen und ihrem Weg zur Heilung.</description>
+    <lastBuildDate>So., 21 Dez. 2025 10:00:00 &#43;0100</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>de-de</language>
+    <copyright>Copyright 2025 Von der Entscheidung zur Heilung - Podcast über Abtreibungserfahrungen</copyright>
+    <itunes:subtitle>Persönliche Geschichten über Abtreibungserfahrungen</itunes:subtitle>
+    <itunes:author>Thea Amanda Kupler</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Thea Amanda Kupler</googleplay:author>
+    <googleplay:email>entscheidung.zur.heilung@gmail.com</googleplay:email>
+    <itunes:summary>Ein Podcast über Abtreibungserfahrungen, der Raum für persönliche Geschichten bietet. Hier erzählen Menschen von ihrer Entscheidung, ihr Kind abgetrieben zu haben, ihren Gefühlen und ihrem Weg zur Heilung.</itunes:summary>
+    <googleplay:description>Ein Podcast über Abtreibungserfahrungen, der Raum für persönliche Geschichten bietet. Hier erzählen Menschen von ihrer Entscheidung, ihr Kind abgetrieben zu haben, ihren Gefühlen und ihrem Weg zur Heilung.</googleplay:description>
+    <itunes:owner>
+      <itunes:name>Entscheidung zur Heilung</itunes:name>
+      <itunes:email>entscheidung.zur.heilung@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="" />
+    <googleplay:image href=""></googleplay:image>
+    <image>
+      <url></url>
+      <title>Von der Entscheidung zur Heilung</title>
+      <link>https://www.entscheidung-zur-heilung.de/</link>
+    </image>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals" /></itunes:category><generator>Hugo -- gohugo.io</generator></channel>
+</rss>

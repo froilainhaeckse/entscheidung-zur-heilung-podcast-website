@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abtreibung on Von der Entscheidung zur Heilung</title>
+    <link>http://localhost:1313/tags/abtreibung/</link>
+    <description>Recent content in Abtreibung on Von der Entscheidung zur Heilung</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 21 Dec 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/abtreibung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Folge 1 - Meine eigene Geschichte</title>
+      <link>http://localhost:1313/episode-001/</link>
+      <pubDate>Sun, 21 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/episode-001/</guid>
+      <description>&lt;p&gt;Herzlich willkommen zur ersten Episode von &amp;ldquo;Entscheidung zur Heilung&amp;rdquo;!&lt;/p&gt;&#xA;&lt;p&gt;In dieser Folge stellen wir uns vor und teilen unsere Vision für diesen Podcast. Du erfährst:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Warum wir diesen Podcast ins Leben gerufen haben&lt;/li&gt;&#xA;&lt;li&gt;Welche Themen dich in den kommenden Episoden erwarten&lt;/li&gt;&#xA;&lt;li&gt;Wie du das Beste aus diesem Podcast herausholen kannst&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wir freuen uns, dich auf dieser Reise zu begleiten!&lt;/p&gt;&#xA;&lt;iframe style=&#34;border-radius:12px&#34;&#xA;        src=&#34;https://open.spotify.com/embed/episode/7CRYUN9JnjmgP8rim1cRfc?si=kx5kh4bfR0aX7TOnaz8GQQ&#34;&#xA;        width=&#34;100%&#34;&#xA;        height=&#34;152&#34;&#xA;        frameborder=&#34;0&#34;&#xA;        allowfullscreen=&#34;&#34;&#xA;        allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34;&gt;&#xA;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>
