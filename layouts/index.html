@@ -1,0 +1,39 @@
+{{ define "main" }} {{ partial "jumbotron.html" . }}
+
+<div class="row startdate-container">
+    <div class="col-md-12">
+        <p>Eine neue Folge erscheint jeden 1. und 3. Sonntag im Monat.</p>
+    </div>
+</div>
+
+<h2>Trailer</h2>
+{{ range first 1 (where site.RegularPages ".Params.episode_type" "trailer") }}
+<div class="row homepage_episode_row">
+    <div class="col-md-12">
+        <iframe
+            src="{{ .Params.spotify }}"
+            width="100%"
+            height="152"
+            frameborder="0"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        ></iframe>
+    </div>
+</div>
+{{ end }}
+
+<h2>Letzte Folge</h2>
+{{ range first 1 (where site.RegularPages ".Params.episode_type" "!=" "trailer")
+}}
+<div class="row homepage_episode_row">
+    <div class="col-md-12">
+        <iframe
+            style="border-radius: 12px"
+            src="{{ .Params.spotify }}"
+            width="100%"
+            height="152"
+            frameborder="0"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        ></iframe>
+    </div>
+</div>
+{{ end }} {{ end }}

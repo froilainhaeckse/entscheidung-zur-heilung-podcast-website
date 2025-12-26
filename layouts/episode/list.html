@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+<section class="episode-list">
+    <div class="container">
+        {{ range .Pages.ByDate.Reverse }} {{ partial "row.html" . }} {{ end }}
+    </div>
+</section>
+
+{{ end }}
