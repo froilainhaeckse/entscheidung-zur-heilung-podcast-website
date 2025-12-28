@@ -1,5 +1,5 @@
 +++
-Description = "In dieser ersten Episode erzähle ich meine eigene Geschichte von meiner Abtreibung und die Intention vom Podcast."
+Description = ""
 date = "2025-12-10T10:00:00+01:00"
 draft = "false"
 episode_type = "trailer"
