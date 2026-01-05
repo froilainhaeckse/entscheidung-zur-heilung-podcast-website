@@ -2,7 +2,24 @@
 
 <section class="episode-list">
     <div class="container">
-        {{ range .Pages.ByDate.Reverse }} {{ partial "row.html" . }} {{ end }}
+        {{ $paginator := .Paginate .Pages.ByDate.Reverse 10 }} {{ range
+        $paginator.Pages }} {{ partial "row.html" . }} {{ end }} {{ if gt
+        $paginator.TotalPages 1 }}
+        <nav class="pagination mt-4 text-center">
+            {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}">← Neuere Folgen</a>
+            {{ end }}
+
+            <span class="mx-3">
+                Seite {{ $paginator.PageNumber }} von {{ $paginator.TotalPages
+                }}
+            </span>
+
+            {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}">Ältere Folgen →</a>
+            {{ end }}
+        </nav>
+        {{ end }}
     </div>
 </section>
 

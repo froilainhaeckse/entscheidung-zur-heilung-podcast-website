@@ -9,7 +9,7 @@ buildFuture = true
 
 # Pagination settings
 [pagination]
-pagerSize = 9
+pagerSize = 6
 
 [taxonomies]
 category = "categories"
