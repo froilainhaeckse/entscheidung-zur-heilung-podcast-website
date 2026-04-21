@@ -4,6 +4,6 @@ date = "2025-12-21T10:00:00+01:00"
 draft = "false"
 episode = "1"
 episode_type = "full"
-title = "Folge 1 - Meine eigene Geschichte"
+title = "Zwischen Entscheidung und Trauer – Mein Weg nach der Abtreibung"
 spotify = "https://open.spotify.com/embed/episode/7CRYUN9JnjmgP8rim1cRfc"
 +++

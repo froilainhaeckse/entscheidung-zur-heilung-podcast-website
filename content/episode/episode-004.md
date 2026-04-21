@@ -4,6 +4,6 @@ date = "2026-01-18T10:00:00+01:00"
 draft = "false"
 episode = "4"
 episode_type = "full"
-title = "Folge 4 - Kristoffer - Von der Entscheidung zur Heilung"
+title = "Von beiden Seiten: Kristoffers Weg durch zwei Abtreibungen zur Vaterschaft"
 spotify = "https://open.spotify.com/embed/episode/3w6Qo5k3RHElvM39frnHo4"
 +++

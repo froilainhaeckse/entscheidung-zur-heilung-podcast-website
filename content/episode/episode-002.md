@@ -4,6 +4,6 @@ date = "2025-12-28T10:00:00+01:00"
 draft = "false"
 episode = "2"
 episode_type = "full"
-title = "Folge 2 - Ines - Von der Entscheidung zur Heilung"
+title = "Emotionale Gewalt und die Entscheidung von Ines zur Abtreibung"
 spotify = "https://open.spotify.com/embed/episode/090fSaYtE8o9D6kOVUUf9c"
 +++
