@@ -9,7 +9,7 @@ layout: single
      src="/img/thea_pic_sonne.jpg" 
      class="img-center rounded-circle img-fluid jumbotron-host w-50 float-right">
 
-**Hallo, ich bin Thea Amanda Kupler.**
+**Hallo, mein Name ist Thea.**
 
 Meine **Abtreibung im Jahr 2022**, im Alter von 31 Jahren, hat mein Leben tief geprägt. Diese Erfahrung war für mich **emotional überwältigend** und hat meine psychische Gesundheit stärker beeinflusst, als ich es je erwartet hätte. Ich habe mich zeitweise sehr hoffnungslos und emotional überfordert gefühlt. Von außen kam oft nur der Vorschlag, Medikamente zu nehmen – was sich für mich damals nicht stimmig anfühlte.
 
