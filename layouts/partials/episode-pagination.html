@@ -1,0 +1,41 @@
+{{ if or .PrevInSection .NextInSection }}
+<div class="episode-pagination">
+  <div class="pagination-container">
+    {{ if .PrevInSection }}
+      <a href="{{.PrevInSection.RelPermalink}}" class="pagination-btn pagination-prev">
+        <span class="pagination-arrow">❮</span>
+        <div class="pagination-info">
+          <small>Vorherige Folge</small>
+          <strong>{{ .PrevInSection.Title }}</strong>
+        </div>
+      </a>
+    {{ else }}
+      <div class="pagination-btn pagination-btn-disabled">
+        <span class="pagination-arrow">❮</span>
+        <div class="pagination-info">
+          <small>Keine vorherige Folge</small>
+        </div>
+      </div>
+    {{ end }}
+
+    <div class="pagination-divider"></div>
+
+    {{ if .NextInSection }}
+      <a href="{{.NextInSection.RelPermalink}}" class="pagination-btn pagination-next">
+        <div class="pagination-info">
+          <small>Nächste Folge</small>
+          <strong>{{ .NextInSection.Title }}</strong>
+        </div>
+        <span class="pagination-arrow">❯</span>
+      </a>
+    {{ else }}
+      <div class="pagination-btn pagination-btn-disabled">
+        <div class="pagination-info">
+          <small>Keine nächste Folge</small>
+        </div>
+        <span class="pagination-arrow">❯</span>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

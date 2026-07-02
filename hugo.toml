@@ -7,10 +7,6 @@ theme = 'castanet'
 defaultContentLanguage = "de"
 buildFuture = true
 
-# Pagination settings
-[pagination]
-pagerSize = 6
-
 [taxonomies]
 category = "categories"
 series = "series"

@@ -2,24 +2,55 @@
 
 <section class="episode-list">
     <div class="container">
-        {{ $paginator := .Paginate .Pages.ByDate.Reverse 10 }} {{ range
+        {{ $paginator := .Paginate .Pages.ByDate.Reverse 4 }} {{ range
         $paginator.Pages }} {{ partial "row.html" . }} {{ end }} {{ if gt
-        $paginator.TotalPages 1 }}
-        <nav class="pagination mt-4 text-center">
-            {{ if $paginator.HasPrev }}
-            <a href="{{ $paginator.Prev.URL }}">← Neuere Folgen</a>
-            {{ end }}
+        $paginator.TotalPages 1 }} {{ if gt $paginator.TotalPages 1 }}
+        <div class="episode-pagination">
+            <div class="pagination-container">
+                {{ if $paginator.HasPrev }}
+                <a
+                    href="{{ $paginator.Prev.URL }}"
+                    class="pagination-btn pagination-prev"
+                >
+                    <span class="pagination-arrow">❮</span>
+                    <div class="pagination-info">
+                        <small>Neuere Folgen</small>
+                        <strong>Seite {{ $paginator.Prev.PageNumber }}</strong>
+                    </div>
+                </a>
+                {{ else }}
+                <div class="pagination-btn pagination-btn-disabled">
+                    <span class="pagination-arrow">❮</span>
+                    <div class="pagination-info">
+                        <small>Keine neueren Folgen</small>
+                    </div>
+                </div>
+                {{ end }}
 
-            <span class="mx-3">
-                Seite {{ $paginator.PageNumber }} von {{ $paginator.TotalPages
-                }}
-            </span>
+                <div class="pagination-divider"></div>
 
-            {{ if $paginator.HasNext }}
-            <a href="{{ $paginator.Next.URL }}">Ältere Folgen →</a>
-            {{ end }}
-        </nav>
-        {{ end }}
+                {{ if $paginator.HasNext }}
+                <a
+                    href="{{ $paginator.Next.URL }}"
+                    class="pagination-btn pagination-next"
+                >
+                    <div class="pagination-info">
+                        <small>Ältere Folgen</small>
+                        <strong>Seite {{ $paginator.Next.PageNumber }}</strong>
+                    </div>
+                    <span class="pagination-arrow">❯</span>
+                </a>
+                {{ else }}
+                <div class="pagination-btn pagination-btn-disabled">
+                    <div class="pagination-info">
+                        <small>Keine älteren Folgen</small>
+                    </div>
+                    <span class="pagination-arrow">❯</span>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }} {{ end }}
     </div>
 </section>
 

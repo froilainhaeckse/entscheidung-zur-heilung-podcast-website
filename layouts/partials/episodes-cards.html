@@ -1,0 +1,42 @@
+<section class="episodes-section">
+  <div class="episodes-intro">
+    {{ .Content }}
+  </div>
+
+  <div class="episodes-grid">
+    {{ range where site.RegularPages "Type" "episode" "episode_type" "!=" "trailer" }}
+      {{ if not .Draft }}
+      <article class="episode-card">
+        <div class="episode-card-header">
+          <div class="episode-number">
+            {{ if .Params.episode }}Folge {{ .Params.episode }}{{ end }}
+          </div>
+          <div class="episode-date">
+            {{ dateFormat "02. Jan 2006" .Date }}
+          </div>
+        </div>
+
+        <div class="episode-card-body">
+          <h3>{{ .Title }}</h3>
+          <p class="episode-description">{{ .Description }}</p>
+        </div>
+
+        <div class="episode-card-player">
+          {{ if .Params.spotify }}
+            <iframe style="border-radius: 12px" src="{{ .Params.spotify }}" width="100%" height="80" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+          {{ end }}
+        </div>
+
+        <div class="episode-card-footer">
+          <a href="{{ .RelPermalink }}" class="episode-link">
+            Zum Beitrag
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M5 12h14M12 5l7 7-7 7"></path>
+            </svg>
+          </a>
+        </div>
+      </article>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>

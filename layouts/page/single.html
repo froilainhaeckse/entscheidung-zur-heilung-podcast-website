@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="row">
+  <div class="col">
+    {{ if eq .File.Dir "ressourcen/" }}
+      {{ .Content }}
+    {{ else if eq .File.Dir "mitmachen/" }}
+      {{ partial "mitmachen-cards.html" . }}
+    {{ else }}
+      {{ .Content }}
+    {{ end }}
+  </div>
+</div>
+
+{{ if eq .File.Dir "ressourcen/" }}
+  {{ partial "ressourcen-cards.html" . }}
+{{ end }}
+{{ end }}

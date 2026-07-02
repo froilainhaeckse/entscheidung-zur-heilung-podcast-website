@@ -1,0 +1,31 @@
+cards:
+  - title: "Deine Geschichte teilen"
+    icon: "💬"
+    description: "Erzähl deine Abtreibungserfahrung im Podcast. Deine Geschichte hilft anderen, sich weniger allein zu fühlen und ihren eigenen Heilungsweg zu finden."
+    cta: "Schreib mir eine Email"
+    link: "mailto:entscheidung.zur.heilung@gmail.com"
+    highlight: true
+
+  - title: "Das Projekt weitertragen"
+    icon: "🔗"
+    description: "Teile den Podcast mit deinem Netzwerk. Erzähl anderen von diesem Raum für Abtreibungserfahrungen. Je mehr Menschen wir erreichen, desto weniger Menschen sind allein."
+    cta: "Teilen & Unterstützen"
+    link: "#share"
+
+  - title: "Finanziell unterstützen"
+    icon: "☕"
+    description: "Das Projekt ist ehrenamtlich und werbefreit. Deine kleine Anerkennung hilft mir, diesen wichtigen Raum nachhaltig weiterzuführen und mehr echte Gespräche zu ermöglichen."
+    cta: "Unterstützen"
+    link: "#support"
+    external: false
+
+support_links:
+  - title: "Buy Me a Coffee"
+    icon: "☕"
+    url: "https://buymeacoffee.com/theaamanda"
+    description: "Kleine & regelmäßige Unterstützung"
+
+  - title: "PayPal"
+    icon: "🅿️"
+    url: "https://paypal.me/theaamanda"
+    description: "Einmalige oder regelmäßige Spende"
