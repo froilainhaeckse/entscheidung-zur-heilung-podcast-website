@@ -14,6 +14,10 @@ Alle Links führen zu Organisationen oder Projekten, die Unterstützung, Informa
 
 Aktion Leben bietet umfassende Informationen, Beratung und Unterstützung rund um Schwangerschaft, Elternwerden und schwierige Entscheidungssituationen. Die Organisation begleitet einfühlsam und niedrigschwellig – sowohl online als auch vor Ort.
 
+#### [Ausweg Pforzheim](https://www.ausweg-pforzheim.de/)
+
+Eine Beratungs- und Begleitungsstelle, die Unterstützung und offene Gespräche für Menschen in schwierigen Lebenssituationen anbietet.
+
 ### Nach einer Abtreibung
 
 #### [SaveOne Europe](https://www.saveoneeurope.org/)
@@ -27,3 +31,11 @@ Ein sensibles Begleitangebot für Frauen, Männer und Paare, die nach einer Abtr
 #### [Healing Void](https://healingvoid.mystrikingly.com/)
 
 Ein persönliches Erfahrungs- und Unterstützungsprojekt, das Raum für Trauer, Austausch und innere Arbeit nach einer Abtreibung bietet. Besonders wertvoll für Menschen, die Raum für ihre Gefühle und Emotionen rundum ihre Entscheidung und Erfahrung haben möchten.
+
+#### [Villa Vie](https://villa-vie.org/)
+
+Ein Angebot für Menschen, die nach einer Abtreibung Raum für Verarbeitung, Heilung und Gemeinschaft suchen.
+
+#### [Schattenkind](https://www.schattenkind.org/)
+
+Eine Unterstützungsplattform für Menschen mit Abtreibungserfahrungen, die Raum für ihre Gefühle und Wege zur Heilung bietet.
