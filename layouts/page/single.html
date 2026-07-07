@@ -1,6 +1,10 @@
 {{ define "main" }}
 <div class="row">
   <div class="col">
+    <header class="page-section-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+
     {{ if eq .File.Dir "ressourcen/" }}
       {{ .Content }}
     {{ else if eq .File.Dir "mitmachen/" }}

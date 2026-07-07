@@ -1,3 +1,11 @@
 {{ define "main" }}
+<div class="row">
+  <div class="col">
+    <header class="page-section-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+  </div>
+</div>
+
 {{ partial "episodes-cards.html" . }}
 {{ end }}

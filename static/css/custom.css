@@ -95,6 +95,15 @@ h4 {
     font-size: 1.5rem;
 }
 
+.page-section-header {
+    margin: 0.5rem 0 1.25rem;
+    text-align: center;
+}
+
+.page-section-header h1 {
+    margin: 0;
+}
+
 /* -----------------------
    Fließtext
 ----------------------- */
@@ -724,7 +733,7 @@ footer a {
     Mitmachen Section
 ----------------------- */
 .mitmachen-section {
-    margin: 2rem 0;
+    margin: 0 0 2rem;
 }
 
 .mitmachen-intro {
@@ -989,7 +998,7 @@ footer a {
     Episodes Cards
 ----------------------- */
 .episodes-section {
-    margin: 2rem 0;
+    margin: 0 0 2rem;
 }
 
 .episodes-intro {
@@ -1119,6 +1128,62 @@ footer a {
     transform: translateX(4px);
 }
 
+.episodes-pagination {
+    margin-top: 0.5rem;
+}
+
+.episodes-pagination .pagination {
+    gap: 0.45rem;
+}
+
+.episodes-pagination .page-link {
+    border: 1px solid var(--color-accent);
+    color: var(--color-primary);
+    border-radius: 10px;
+    background-color: #fff;
+    min-width: 44px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.episodes-pagination .page-item.active .page-link {
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+    color: #fff;
+}
+
+.episodes-pagination .page-item.active .page-link:hover,
+.episodes-pagination .page-item.active .page-link:focus {
+    background-color: #c98fad;
+    border-color: #c98fad;
+    color: #fff;
+    box-shadow: none;
+}
+
+.episodes-pagination .page-link:hover {
+    background-color: rgba(219, 176, 198, 0.2);
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+}
+
+.episodes-pagination .page-link:focus {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 0.2rem rgba(219, 176, 198, 0.25);
+}
+
+/* Override Bootstrap active pagination blue */
+.episodes-pagination .pagination > .active > a,
+.episodes-pagination .pagination > .active > a:hover,
+.episodes-pagination .pagination > .active > a:focus,
+.episodes-pagination .pagination > .active > span,
+.episodes-pagination .pagination > .active > span:hover,
+.episodes-pagination .pagination > .active > span:focus {
+    color: #fff !important;
+    background-color: var(--color-primary) !important;
+    border-color: var(--color-primary) !important;
+    box-shadow: none !important;
+}
+
 @media (max-width: 768px) {
     .episodes-grid {
         grid-template-columns: 1fr;
@@ -1139,5 +1204,9 @@ footer a {
 
     .episode-card-player {
         padding: 0.8rem;
+    }
+
+    .episodes-pagination .page-link {
+        min-width: 40px;
     }
 }
