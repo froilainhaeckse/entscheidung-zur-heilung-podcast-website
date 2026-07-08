@@ -1,41 +1,26 @@
 <section class="ressourcen-section">
-  <div class="ressourcen-category">
-    <h3>Während einer Schwangerschaft</h3>
-    <div class="ressourcen-grid">
-      {{ range site.Data.ressourcen.waehrend_schwangerschaft }}
-      <div class="ressourcen-card">
-        <div class="ressourcen-card-inner">
-          <h4>{{ .title }}</h4>
-          <p>{{ .description }}</p>
-          <a href="{{ .url }}" target="_blank" class="ressourcen-link">
-            <span>Besuchen</span>
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M7 17L17 7M17 7H7M17 7V17"></path>
-            </svg>
-          </a>
-        </div>
-      </div>
+  {{ range site.Data.ressourcen.categories }}
+    <div class="ressourcen-category">
+      <h3>{{ .title }}</h3>
+      {{ with .intro }}
+        <p class="ressourcen-category-intro">{{ . }}</p>
       {{ end }}
-    </div>
-  </div>
-
-  <div class="ressourcen-category">
-    <h3>Nach einer Abtreibung</h3>
-    <div class="ressourcen-grid">
-      {{ range site.Data.ressourcen.nach_abtreibung }}
-      <div class="ressourcen-card">
-        <div class="ressourcen-card-inner">
-          <h4>{{ .title }}</h4>
-          <p>{{ .description }}</p>
-          <a href="{{ .url }}" target="_blank" class="ressourcen-link">
-            <span>Besuchen</span>
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M7 17L17 7M17 7H7M17 7V17"></path>
-            </svg>
-          </a>
-        </div>
+      <div class="ressourcen-grid">
+        {{ range .items }}
+          <div class="ressourcen-card">
+            <div class="ressourcen-card-inner">
+              <h4>{{ .title }}</h4>
+              <p>{{ .description }}</p>
+              <a href="{{ .url }}" target="_blank" class="ressourcen-link">
+                <span>Besuchen</span>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M7 17L17 7M17 7H7M17 7V17"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        {{ end }}
       </div>
-      {{ end }}
     </div>
-  </div>
+  {{ end }}
 </section>

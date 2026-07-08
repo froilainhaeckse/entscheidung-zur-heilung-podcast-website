@@ -1,33 +1,68 @@
-waehrend_schwangerschaft:
-  - title: "Aktion Leben"
-    url: "https://www.aktion-leben.de/"
-    description: "Aktion Leben bietet umfassende Informationen, Beratung und Unterstützung rund um Schwangerschaft, Elternwerden und schwierige Entscheidungssituationen. Die Organisation begleitet einfühlsam und niedrigschwellig – sowohl online als auch vor Ort."
+categories:
+  - title: "Staatlich anerkannte Schwangerschaftsberatungsstellen"
+    intro: "Diese Beratungsstellen bieten vertrauliche Beratung bei Fragen rund um Schwangerschaft, Entscheidungssituationen und Unterstützungsmöglichkeiten."
+    items:
+      - title: "pro familia"
+        url: "https://www.profamilia.de/"
+        description: "pro familia bietet bundesweit Beratung zu Schwangerschaft, Familienplanung und persönlichen Entscheidungssituationen – vor Ort und online."
 
-  - title: "Ausweg Pforzheim"
-    url: "https://www.ausweg-pforzheim.de/"
-    description: "Eine Beratungs- und Begleitungsstelle, die Unterstützung und offene Gespräche für Menschen in schwierigen Lebenssituationen anbietet."
+      - title: "donum vitae"
+        url: "https://www.donumvitae.org/"
+        description: "donum vitae begleitet Schwangere und Familien mit Beratung, Information und konkreter Unterstützung in herausfordernden Lebenslagen."
 
-nach_abtreibung:
-  - title: "SaveOne Europe"
-    url: "https://www.saveoneeurope.org/"
-    description: "Ein internationales Netzwerk, das Menschen nach einer Abtreibung begleitet. SaveOne bietet Einzelbegleitung, Gruppenprogramme und lokale Ansprechpartner, um Heilung und Verarbeitung zu unterstützen."
+      - title: "Caritas"
+        url: "https://www.caritas.de/hilfeundberatung/onlineberatung/schwangerschaftsberatung/schwangerschaftsberatung"
+        description: "Die Caritas bietet Schwangerschaftsberatung und Begleitung bei persönlichen, sozialen und finanziellen Fragen rund um Schwangerschaft und Geburt."
 
-  - title: "Rachels Weinberg"
-    url: "https://rachelsweinberg.de/"
-    description: "Ein sensibles Begleitangebot für Frauen, Männer und Paare, die nach einer Abtreibung innere Ruhe, Versöhnung und Heilungswege suchen. Die Begleitung ist erfahrungsorientiert, achtsam und anonym möglich."
+      - title: "Diakonie"
+        url: "https://www.diakonie.de/wissen-kompakt/schwangerschaftskonfliktberatung"
+        description: "Die Diakonie informiert über Schwangerschaftskonfliktberatung und vermittelt Unterstützung bei schwierigen Entscheidungen und Belastungssituationen."
 
-  - title: "Healing Void"
-    url: "https://healingvoid.mystrikingly.com/"
-    description: "Ein persönliches Erfahrungs- und Unterstützungsprojekt, das Raum für Trauer, Austausch und innere Arbeit nach einer Abtreibung bietet. Besonders wertvoll für Menschen, die Raum für ihre Gefühle und Emotionen rundum ihre Entscheidung und Erfahrung haben möchten."
+  - title: "Weitere Beratungs- und Unterstützungsangebote"
+    intro: "Je nach persönlicher Haltung oder regionaler Verfügbarkeit können auch weitere Begleitangebote hilfreich sein."
+    items:
+      - title: "Aktion Leben"
+        url: "https://www.aktion-leben.de/"
+        description: "Aktion Leben bietet Informationen, Beratung und Unterstützung rund um Schwangerschaft, Elternwerden und belastende Entscheidungssituationen."
 
-  - title: "Villa Vie"
-    url: "https://villa-vie.org/"
-    description: "Ein Angebot für Menschen, die nach einer Abtreibung Raum für Verarbeitung, Heilung und Gemeinschaft suchen."
+      - title: "Ausweg Pforzheim"
+        url: "https://www.ausweg-pforzheim.de/"
+        description: "Eine Beratungs- und Begleitungsstelle, die offene Gespräche und Unterstützung für Menschen in schwierigen Lebenssituationen anbietet."
 
-  - title: "Schattenkind"
-    url: "https://www.schattenkind.org/"
-    description: "Eine Unterstützungsplattform für Menschen mit Abtreibungserfahrungen, die Raum für ihre Gefühle und Wege zur Heilung bietet."
+  - title: "Spezifische Angebote für Verarbeitung & Rituale"
+    intro: "Diese Angebote richten sich an Menschen, die nach einer Abtreibung Raum für Trauer, Verarbeitung, Versöhnung oder persönliche Rituale suchen."
+    items:
+      - title: "Rachels Weinberg"
+        url: "https://rachelsweinberg.de/"
+        description: "Ein sensibles Begleitangebot für Frauen, Männer und Paare, die nach einer Abtreibung innere Ruhe, Versöhnung und persönliche Heilungswege suchen."
 
-  - title: "Nachabtreibung"
-    url: "https://www.nachabtreibung.de/"
-    description: "Ein Informations- und Unterstützungsangebot speziell für die Zeit nach einer Abtreibung, mit hilfreichen Ressourcen und Begleitungsmöglichkeiten."
+      - title: "SaveOne Europe"
+        url: "https://www.saveoneeurope.org/"
+        description: "Ein internationales Netzwerk mit Einzelbegleitung, Gruppenprogrammen und lokalen Ansprechpartnern für Menschen nach einer Abtreibung."
+
+      - title: "Healing Void"
+        url: "https://healingvoid.mystrikingly.com/"
+        description: "Ein persönliches Erfahrungs- und Unterstützungsprojekt, das Raum für Trauer, Austausch und innere Verarbeitung bietet."
+
+      - title: "Villa Vie"
+        url: "https://villa-vie.org/"
+        description: "Ein Angebot für Menschen, die nach einer Abtreibung Raum für Verarbeitung, Heilung und Gemeinschaft suchen."
+
+      - title: "Schattenkind"
+        url: "https://www.schattenkind.org/"
+        description: "Eine Plattform für Menschen mit Abtreibungserfahrungen, die Gefühle ernst nimmt und Impulse für den eigenen Heilungsweg anbietet."
+
+      - title: "Nachabtreibung"
+        url: "https://www.nachabtreibung.de/"
+        description: "Ein Informations- und Unterstützungsangebot speziell für die Zeit nach einer Abtreibung, mit Begleitungsmöglichkeiten und weiterführenden Ressourcen."
+
+  - title: "Information & rechtliche Rahmenbedingungen"
+    intro: "Wer zunächst Orientierung, medizinische Informationen oder Hinweise zu rechtlichen Rahmenbedingungen sucht, findet hier verlässliche Einstiegsseiten."
+    items:
+      - title: "Bundeszentrale für gesundheitliche Aufklärung (BZgA)"
+        url: "https://www.bzga.de/"
+        description: "Die BZgA stellt fachlich fundierte Informationen zu Gesundheit, Aufklärung und Prävention bereit und verweist auf weiterführende Angebote."
+
+      - title: "familienplanung.de"
+        url: "https://www.familienplanung.de/"
+        description: "Das Informationsportal der BZgA bündelt verständliche Inhalte zu Schwangerschaft, Verhütung, Abbruch, Beratung und den rechtlichen Grundlagen in Deutschland."

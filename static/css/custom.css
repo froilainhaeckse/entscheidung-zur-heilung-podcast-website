@@ -437,6 +437,13 @@ select:focus {
    border-bottom: 2px solid var(--color-primary);
 }
 
+.ressourcen-category-intro {
+   margin: -0.5rem 0 1.5rem;
+   color: var(--color-text);
+   line-height: 1.6;
+   max-width: 60rem;
+}
+
 .ressourcen-grid {
    display: grid;
    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
