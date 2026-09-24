@@ -217,7 +217,7 @@
 
 
 <div class="testimonials-section">
-  <h2>Hörersstimmen</h2>
+  <h2>Hörerstimmen</h2>
   <div class="testimonials-carousel">
     <div class="carousel-inner">
       
@@ -230,7 +230,7 @@
             <p>"Ich wollte mich noch einmal melden und mich herzlich bei dir bedanken. Dein Podcast ist ein wesentlicher Bestandteil meines Weges zur Heilung und ich habe gerade mit Tränen in den Augen den aktuellen Beitrag von Lisa gehört. Alle Geschichten berühren mich natürlich auf ihre eigene Art und Weise, aber das was sie erlebt hat und die Schlüsse, die sie daraus zieht, sind so bewegend und ich kann sie alle so sehr fühlen. Ich bin so dankbar für unsere Begegnung und deine wertvolle Arbeit und grüße dich herzlichst aus der Ferne."</p>
           </div>
           <div class="testimonial-source">— E-Mail</div>
-          
+
           
           <div class="carousel-indicators">
             
@@ -254,7 +254,7 @@
             <p>"Starkes authentisches Zeugnis, danke!"</p>
           </div>
           <div class="testimonial-source">— Spotify-Kommentar</div>
-          
+
           
           <div class="carousel-indicators">
             
@@ -278,7 +278,7 @@
             <p>"Liebe Thea, ich bin auf deinen Podcast gestoßen und finde es sehr mutig und stark, dass du diese Community und diesen Austausch in die Welt rufst. ❤️💫"</p>
           </div>
           <div class="testimonial-source">— Spotify-Kommentar</div>
-          
+
           
           <div class="carousel-indicators">
             
@@ -308,13 +308,13 @@ let currentSlide = 0;
 function showSlide(n) {
   const slides = document.querySelectorAll('.carousel-item');
   const indicators = document.querySelectorAll('.indicator');
-  
+
   if (n >= slides.length) currentSlide = 0;
   if (n < 0) currentSlide = slides.length - 1;
-  
+
   slides.forEach(slide => slide.classList.remove('active'));
   indicators.forEach(indicator => indicator.classList.remove('active'));
-  
+
   slides[currentSlide].classList.add('active');
   if (indicators[currentSlide]) indicators[currentSlide].classList.add('active');
 }
