@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "Ein Podcast mit echten Geschichten von Frauen und Männern nach einem Schwangerschaftsabbruch – über Erfahrungen, innere Wege, Entscheidungen und ihre Nachwirkungen."
 date = "2025-12-10T10:00:00+01:00"
 draft = "false"
 episode_type = "trailer"

@@ -1,9 +1,9 @@
 +++
-Description = "In dieser Folge teilt Ines ihre Geschichte mit uns. Sie ist heute 48 Jahre alt und hat sich mit 35 Jahren für eine Abtreibung entschieden."
+Description = "Ines spricht erstmals öffentlich über ihre Abtreibung in einer emotional gewalttätigen Beziehung, Scham und den schmerzhaften Weg zurück zu sich selbst."
 date = "2025-12-28T10:00:00+01:00"
 draft = "false"
 episode = "2"
 episode_type = "full"
-title = "Emotionale Gewalt und die Entscheidung von Ines zur Abtreibung"
+title = "Abtreibung und Heilung: Wie der Dialog mit deinem ungeborenen Kind dich befreien kann"
 spotify = "https://open.spotify.com/embed/episode/090fSaYtE8o9D6kOVUUf9c"
 +++

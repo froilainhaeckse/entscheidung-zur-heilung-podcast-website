@@ -1,2 +1,25 @@
 <link rel="stylesheet" href="/css/custom.css" />
 <script src="/js/external-links.js" defer></script>
+{{ if eq .Type "episode" }}
+  {{ $episode := dict
+    "@context" "https://schema.org"
+    "@type" "PodcastEpisode"
+    "name" .Title
+    "description" .Description
+    "datePublished" (.Date.Format "2006-01-02")
+    "url" .Permalink
+    "partOfSeries" (dict "@type" "PodcastSeries" "name" .Site.Title "url" .Site.BaseURL)
+  }}
+  <script type="application/ld+json">{{ $episode | jsonify | safeJS }}</script>
+{{ end }}
+{{ if eq .RelPermalink "/hilfe-nach-schwangerschaftsabbruch/" }}
+  {{ $questions := slice
+    (dict "@type" "Question" "name" "Wo finde ich Hilfe nach einem Schwangerschaftsabbruch?" "acceptedAnswer" (dict "@type" "Answer" "text" "Es gibt Schwangerschaftsberatungsstellen, psychologische Beratungsangebote, Selbsthilfegruppen und Begleitung für Trauer und Verarbeitung. Auf der Ressourcenseite dieses Podcasts findest du eine Auswahl weiterführender Anlaufstellen."))
+    (dict "@type" "Question" "name" "Ist es normal, nach einem Schwangerschaftsabbruch traurig oder überfordert zu sein?" "acceptedAnswer" (dict "@type" "Answer" "text" "Menschen erleben einen Schwangerschaftsabbruch sehr unterschiedlich. Manche empfinden Erleichterung, andere Trauer, Scham, Schuldgefühle oder widersprüchliche Gefühle. Wenn dich diese Gefühle belasten, kann ein Gespräch mit einer vertrauten Person oder einer Beratungsstelle entlasten."))
+    (dict "@type" "Question" "name" "Gibt es auch Unterstützung für Männer und Partner?" "acceptedAnswer" (dict "@type" "Answer" "text" "Ja. Auch Partner und Männer können von einer Schwangerschaft und einem Abbruch emotional betroffen sein. Einige Beratungsstellen und Begleitangebote richten sich ausdrücklich an Paare und Angehörige."))
+    (dict "@type" "Question" "name" "Wo finde ich neutrale Informationen, wenn ich vor einer Entscheidung stehe?" "acceptedAnswer" (dict "@type" "Answer" "text" "Staatlich anerkannte Schwangerschaftsberatungsstellen und familienplanung.de bieten Informationen zu Beratung, rechtlichen Rahmenbedingungen und Unterstützungsmöglichkeiten."))
+    (dict "@type" "Question" "name" "Was kann ich tun, wenn mich die Erfahrung akut belastet?" "acceptedAnswer" (dict "@type" "Answer" "text" "Bei starker emotionaler Belastung kann professionelle Hilfe wichtig sein. Wende dich an eine psychotherapeutische Praxis, einen Krisendienst oder eine Beratungsstelle. Bei akuter Gefahr oder einem Notfall rufe den Notruf 112."))
+  }}
+  {{ $faq := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $questions }}
+  <script type="application/ld+json">{{ $faq | jsonify | safeJS }}</script>
+{{ end }}

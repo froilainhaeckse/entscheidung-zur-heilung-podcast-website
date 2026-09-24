@@ -1,6 +1,6 @@
 {{ if site.Data.testimonials.testimonials }}
 <div class="testimonials-section">
-  <h2>Hörersstimmen</h2>
+  <h2>Hörerstimmen</h2>
   <div class="testimonials-carousel">
     <div class="carousel-inner">
       {{ range $index, $testimonial := site.Data.testimonials.testimonials }}
@@ -13,7 +13,7 @@
             <p>"{{ $testimonial.quote }}"</p>
           </div>
           <div class="testimonial-source">— {{ $testimonial.source }}</div>
-          
+
           {{ if gt (len site.Data.testimonials.testimonials) 1 }}
           <div class="carousel-indicators">
             {{ range $idx, $_ := site.Data.testimonials.testimonials }}
@@ -39,13 +39,13 @@ let currentSlide = 0;
 function showSlide(n) {
   const slides = document.querySelectorAll('.carousel-item');
   const indicators = document.querySelectorAll('.indicator');
-  
+
   if (n >= slides.length) currentSlide = 0;
   if (n < 0) currentSlide = slides.length - 1;
-  
+
   slides.forEach(slide => slide.classList.remove('active'));
   indicators.forEach(indicator => indicator.classList.remove('active'));
-  
+
   slides[currentSlide].classList.add('active');
   if (indicators[currentSlide]) indicators[currentSlide].classList.add('active');
 }

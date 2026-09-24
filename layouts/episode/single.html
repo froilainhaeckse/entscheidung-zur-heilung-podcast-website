@@ -1,0 +1,40 @@
+{{ define "main" }}
+<article class="episode-page">
+  <header class="episode-page-header">
+    <p class="episode-page-meta">Folge {{ .Params.episode }} · {{ .Date | time.Format "02.01.2006" }}</p>
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  {{ with .Description }}
+  <section>
+    <h2>Worum geht es in dieser Folge?</h2>
+    <p>{{ . }}</p>
+  </section>
+  {{ end }}
+
+  {{ with .Params.spotify }}
+  <section>
+    <iframe
+      style="border-radius: 12px"
+      src="{{ . }}"
+      width="100%"
+      height="152"
+      frameborder="0"
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      title="Diese Episode auf Spotify hören"
+    ></iframe>
+  </section>
+  {{ end }}
+
+  {{ with .Content }}
+  <section>
+    {{ . }}
+  </section>
+  {{ end }}
+
+  <section>
+    <h2>Weiterführende Unterstützung</h2>
+    <p>Wenn dich die Themen dieser Folge beschäftigen, findest du auf der <a href="/ressourcen/">Ressourcenseite</a> weiterführende Beratungs- und Unterstützungsangebote.</p>
+  </section>
+</article>
+{{ end }}

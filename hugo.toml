@@ -23,28 +23,28 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Über mich"
-url = "/ueber-mich/"
+name = "Podcastfolgen"
+url = "/episode/"
 weight = 2
 
 [[menu.main]]
-name = "Mitmachen"
-url = "/mitmachen/"
+name = "Über den Podcast"
+url = "/ueber-mich/"
 weight = 3
+
+[[menu.main]]
+name = "Geschichte teilen"
+url = "/mitmachen/"
+weight = 4
 
 [[menu.main]]
 name = "Ressourcen"
 url = "/ressourcen/"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Kontakt"
 url = "/kontakt/"
-weight = 5
-
-[[menu.main]]
-name = "Podcast"
-url = "/episode/"
 weight = 6
 
 [[menu.main]]
@@ -67,7 +67,7 @@ show_next_upcoming = "true"
 enable_jumbo = "true"
 disable_title_caps = "true"
 copyright_notice = "Copyright 2026 Von der Entscheidung zur Heilung - Podcast über Abtreibungserfahrungen"
-description = ""
+description = "Podcast mit persönlichen Erfahrungen rund um Schwangerschaftsabbruch, Trauer und Heilung. Ehrliche Geschichten, unterschiedliche Perspektiven und weiterführende Ressourcen."
 youtube_subscribe = "https://www.youtube.com/channel/UC1iUH1RYEaQBZBZnKk7yhcg"
 # itunes_subscribe = "https://podcasts.apple.com/us/podcast/von-der-entscheidung-zur-heilung-stimmen-nach-einer-abtreibung/id1860383572"
 spotify_subscribe = "https://open.spotify.com/show/1vcZ1y2om1YxT49Naw51s0?si=UU6ZyXDMRcu7FshJeb_LjA"

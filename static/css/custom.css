@@ -195,6 +195,20 @@ section {
     padding: 4rem 2rem;
 }
 
+/* Keep the episode details compact despite the site-wide section spacing. */
+.episode-page section {
+    padding: 0;
+    margin: 2rem 0;
+}
+
+.episode-page-header {
+    margin-bottom: 2rem;
+}
+
+.episode-page-meta {
+    margin-bottom: 0.5rem;
+}
+
 /* -----------------------
    Formulare / Inputs
 ----------------------- */
