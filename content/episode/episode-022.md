@@ -5,4 +5,5 @@ draft = "false"
 episode = "22"
 episode_type = "full"
 title = "Heilung nach der Abtreibung: Trauer, Verdrängung und der Weg dorthin"
+spotify = "https://open.spotify.com/embed/episode/2paTF56uaOIqiURDK0dC8j"
 +++

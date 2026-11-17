@@ -5,4 +5,5 @@ draft = "false"
 episode = "23"
 episode_type = "full"
 title = "Vater im Zwiespalt: Wenn ein Mann gegen sein eigenes Kind entscheidet"
+spotify = "https://open.spotify.com/embed/episode/1wBlwerWRL0pLi7y5RqeUS"
 +++
